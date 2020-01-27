@@ -1,0 +1,27 @@
+{
+  "name": "clientx-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord du CMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClientXCMS/Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "clientx",
+    "client",
+    "x",
+    "cms"
+  ],
+  "author": "MartinDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClientXCMS/Bot/issues"
+  },
+  "homepage": "https://github.com/ClientXCMS/Bot#readme"
+}
